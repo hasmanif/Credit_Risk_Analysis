@@ -55,3 +55,4 @@ The purpose of this analysis is to employ techniques to train and evaluate model
 ![Easy](images/easy_ensemble.PNG)
 
 ## Summary
+Upon review of the accuracy and precision numbers from each test, its fair to say that the best model to recommended for the use of predicting credit risks is the Easy Ensemble AdaBoost Classifier as its accuracy score is 92% and the average recall is 94%.
