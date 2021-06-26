@@ -51,6 +51,7 @@ The purpose of this analysis is to employ techniques to train and evaluate model
 - Precision Low Risk: 100%
 - Recall High Risk: 89%
 - Recall Low Risk: 94%
+
 ![Easy](images/easy_ensemble.PNG)
 
 ## Summary
