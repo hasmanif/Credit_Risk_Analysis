@@ -19,6 +19,7 @@ The purpose of this analysis is to employ techniques to train and evaluate model
 - Precision Low Risk: 100%
 - Recall High Risk: 62%
 - Recall Low Risk: 68%
+![SMOTE](images/SMOTE_oversampling.PNG)
 
 ### Cluster Centroid Undersampling: 
 - Accuracy Score: 65%
@@ -26,6 +27,7 @@ The purpose of this analysis is to employ techniques to train and evaluate model
 - Precision Low Risk: 100%
 - Recall High Risk: 69%
 - Recall Low Risk: 40%
+![Undersampling](images/undersampling.png)
 
 ### Combination (Over and Under) Sampling: 
 - Accuracy Score: 54%
@@ -33,6 +35,7 @@ The purpose of this analysis is to employ techniques to train and evaluate model
 - Precision Low Risk: 100%
 - Recall High Risk: 72%
 - Recall Low Risk: 57%
+![Combination](images/combination.png)
 
 ### Balanced Random Forest Classifier: 
 - Accuracy Score: 80%
@@ -40,6 +43,7 @@ The purpose of this analysis is to employ techniques to train and evaluate model
 - Precision Low Risk: 100%
 - Recall High Risk: 71%
 - Recall Low Risk: 89%
+![Balanced](images/balanced_random_forest.PNG)
 
 ### Easy Ensemble AdaBoost Classifier: 
 - Accuracy Score: 92%
@@ -47,5 +51,6 @@ The purpose of this analysis is to employ techniques to train and evaluate model
 - Precision Low Risk: 100%
 - Recall High Risk: 89%
 - Recall Low Risk: 94%
+![Easy](images/easy_ensemble.PNG)
 
 ## Summary
