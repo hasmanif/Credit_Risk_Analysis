@@ -6,8 +6,8 @@ The purpose of this analysis is to employ techniques to train and evaluate model
 
 ## Results
 ### Naive Random Oversampling: 
-Accuracy Score: 66%
-Precision High Risk: 1%
+- Accuracy Score: 66%
+- Precision High Risk: 1%
 Precision Low Risk: 100%
 Recall High Risk: 74%
 Recall Low Risk: 58%
